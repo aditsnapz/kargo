@@ -1,0 +1,14 @@
+base url:  http://dacargo.winatafurnitureindonesia.com/
+
+db name : winatafu_kargo
+user : winatafu_adit
+password   : winatafu_adit
+
+controller : konsumen,barang,jual,nota
+
+user ftp : winatafu_adit@dacargo.winatafurnitureindonesia.com
+password   : winatafu_adit
+
+email: idohfurniture@gmail.com
+pass: sejarahku
+

@@ -1,0 +1,1 @@
+cetak pembayaran dari pendaftar yang telah mengikuti pelatihan 
